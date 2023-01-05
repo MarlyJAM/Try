@@ -1,0 +1,26 @@
+body{
+	background-color: blueviolet;
+}
+p{
+	color: blanchedalmond;
+}
+span{
+	background-color: royalblue;
+	color: black;
+	border:1.5px solid blanchedalmond ; 
+}
+tr{
+	background-color: blanchedalmond;
+	color: red;
+	border:1.5px solid rosybrown ; 
+}
+td{
+	border:2.5px solid darkgreen; 
+}
+h1{
+	background-color: darkcyan;
+	color: blanchedalmond;
+}
+h5{
+	margin-left: 40px;
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Films>
+	<film id="1" langue_org="anglais">
+		<nom>
+			La Passion du Christ
+		</nom>
+		<date_de_sortie>
+			31 mars 2004(France)
+		</date_de_sortie>
+		<genre>
+			Drame
+		</genre>
+		<realisateur>
+			Mel Gibson
+		</realisateur>
+	</film >
+	<film id="2" langue_org="anglais">
+		<nom>
+			Amour et Amnesie
+		</nom>
+		<date_de_sortie>
+			13 février 2004(Etats-Unis)
+		</date_de_sortie>
+		<genre>
+			Romance/Comédie
+		</genre>
+		<realisateur>
+			Peter Segal
+		</realisateur>
+	</film>
+	<film id="3" langue_org="anglais">
+		<nom>
+			Coraline
+		</nom>
+		<date_de_sortie>
+			10 juin 2009 (France)
+		</date_de_sortie>
+		<genre>
+			Fantaisie
+		</genre>
+		<realisateur>
+			Henry Selick
+		</realisateur>
+	</film>
+</Films>

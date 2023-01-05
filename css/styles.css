@@ -1,0 +1,91 @@
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+div#content div.leftbox{
+
+}
+div#content div.rightbox{
+
+}
+div#content div.rightbox h2,p{
+     margin: 50px;
+}
+p.subject{
+	color: greenyellow;
+}
+body{
+	background-color: burlywood;
+}
+h1{
+	font-size: 50px;
+	padding-left: 470px;
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+	color: floralwhite;
+	background-color:aquamarine;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 10px;
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color: aquamarine;
+	background-color: floralwhite;
+	transition: 0.3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
